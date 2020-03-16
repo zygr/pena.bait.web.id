@@ -31,7 +31,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
-![GitHub Logo](https://cdn.nafcodes.com/assets/images/nafcodes-64x27.png)
+![GitHub Logo](https://2.bp.blogspot.com/-RbFwu_jFXV8/Xd4V6OmfK7I/AAAAAAAACWw/R4mRmhwobh0FQynEMuHmgj4-XwW6uvfUQCLcBGAsYHQ/w1600-h685-p-k-no-nu/separation-bait-web-id.jpg)
 
 http://bait.web.id - automatic!
 

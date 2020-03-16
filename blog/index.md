@@ -11,6 +11,6 @@ description: Foo & bar.
 
   <section>
     {% for post in site.posts %}
-      <h3><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+      <h3><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.heading }}</a></h3>
     {% endfor %}
   </section>

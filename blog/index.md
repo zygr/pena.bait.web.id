@@ -12,7 +12,7 @@ description: Foo & bar.
   <section>
     {% for post in site.posts %}
     <header>
-      <div>{{ post.date | date_to_string }}</div>
+      <div><small>{{ post.date | date_to_string }}</small></div>
       <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.heading }}</a></h3>
     </header>
     <hr>

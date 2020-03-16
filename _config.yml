@@ -3,11 +3,11 @@ markdown: kramdown
 comments: true
 permalink: /blog/:title
 compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+  clippings: []
+  comments: []
+  endings: []
   ignore:
-    envs: [local]
+    envs: []
   blanklines: false
-  profile: true
-  startings: [html, head, body]
+  profile: false
+  startings: []

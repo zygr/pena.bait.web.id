@@ -2,7 +2,8 @@
 layout: post
 comments: true
 title: Apa itu Kajian Hollywood?
-heeading: Kajian Hollywood; Sebuah Catatan
+heeading: Kajian Hollywood dan Sebuah Catatan Kecil
+description: Foo & bar.
 categories: film
 tags: hollywood
 date: 2020-03-16

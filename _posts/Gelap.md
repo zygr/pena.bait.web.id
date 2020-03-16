@@ -1,0 +1,12 @@
+---
+layout: post
+title: Gelap
+date: 2020-03-16
+modified: 2020-03-16T11:50:54+07:00
+---
+
+Di ruang pengap juga gelap
+Sesekalai sinar menerjang
+Lewat lubang-lubang fentilasi
+Adakah cahaya yang tak masuk
+Di sanubari?

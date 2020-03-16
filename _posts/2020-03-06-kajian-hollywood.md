@@ -2,7 +2,7 @@
 layout: post
 title: Kajian Hollywood
 date: 2020-03-16
-modified: 2020-03-16T12:29:48+07:00
+modified: 2020-03-16T12:32:01+07:00
 ---
 
 ## Amerika: Sejarah
@@ -38,6 +38,6 @@ Robert Allen dan Douglas Gomery (1985), terbukti menjadi teks yang membentuk pen
 *Classical Hollywood Cinema* sebagai sebuah sistem (mode produksi)
 
 **Kesimpulan**
-1. Sejarah tradisiona
+1. Sejarah tradisional
 2. 1970
 3. Eksplorasi Classical Hollywood Cinema bukan hanya sebuah grup dari ”gaya”.

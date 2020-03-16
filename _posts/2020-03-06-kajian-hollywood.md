@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Apa itu Kajian Hollywood?"
-heeading: "Kajian Hollywood: Sebuah Catatan Kecil"
+heading: "Kajian Hollywood: Sebuah Catatan Kecil"
 description: "Foo & bar."
 categories: "film, sinema"
 tags: "hollywood"

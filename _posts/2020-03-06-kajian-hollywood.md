@@ -2,7 +2,7 @@
 layout: post
 title: Kajian Hollywood
 date: 2020-03-16
-modified: 2020-03-16T12:32:01+07:00
+modified: 2020-03-16T12:33:03+07:00
 ---
 
 ## Amerika: Sejarah
@@ -29,6 +29,7 @@ Generasi baru sejarahwan muncul yang mayoritas merupakan scholars atau akademisi
 
 Film mulai masuk ke sebuah institusi2 dan ingin menjadi sebagai sebuah disiplin ilmu.
 
+
 **Film History**
 
 Robert Allen dan Douglas Gomery (1985), terbukti menjadi teks yang membentuk penulisan sejarah film kontemporer. Dengan menggunakan konsep ”generative mechanism” dan ”realism”.
@@ -36,6 +37,7 @@ Robert Allen dan Douglas Gomery (1985), terbukti menjadi teks yang membentuk pen
 *The Classical Hollywood* (David Bordwell, Janet Steiger, Kristin Thompson)
 
 *Classical Hollywood Cinema* sebagai sebuah sistem (mode produksi)
+
 
 **Kesimpulan**
 1. Sejarah tradisional

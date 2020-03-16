@@ -2,6 +2,10 @@
 layout: post
 comments: false
 title: "Mastering Markdown"
+heading: Foo
+description: Foo & bar.
+categories: Foo
+tags: bar
 date: 2020-03-16
 ---
 

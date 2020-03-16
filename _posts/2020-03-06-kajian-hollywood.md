@@ -1,7 +1,8 @@
 ---
 layout: post
 comments: true
-title: Kajian Hollywood
+title: Apa itu Kajian Hollywood?
+heeading: Kajian Hollywood: Sebuah Catatan
 categories: film
 tags: hollywood
 date: 2020-03-16

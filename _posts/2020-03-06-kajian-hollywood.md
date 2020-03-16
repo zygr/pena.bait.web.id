@@ -2,7 +2,7 @@
 layout: post
 title: Kajian Hollywood
 date: 2020-03-16
-modified: 2020-03-16T12:28:31+07:00
+modified: 2020-03-16T12:29:48+07:00
 ---
 
 ## Amerika: Sejarah
@@ -14,11 +14,12 @@ modified: 2020-03-16T12:28:31+07:00
 
 2. Sejarah film, awalnya, terkonstruksi berdasarkan model abad 19.
 
-1. *1895*
+
+Tahun *1895*
 
 W. K. L Dickson dan Antonia Dickson (History of Kinetograph, Kinetoscope, Kinetophonograph).
 
-2. *1914*
+Tahun *1914*
 
 Robert Grau (membicarakan kesuksesan akan prestasi eksibitor
 

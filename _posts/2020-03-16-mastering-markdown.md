@@ -1,3 +1,8 @@
+http://jmcglone.com/guides/github-pages/
+
+
+
+
 ---
 layout: post
 title: "Mastering Markdown"
@@ -31,7 +36,6 @@ _You **can** combine them_
    1. Item 3b
 
 ![GitHub Logo](https://cdn.nafcodes.com/assets/images/nafcodes-64x27.png)
-Format: ![Alt Text](url)
 
 http://bait.web.id - automatic!
 [GitHub](http://bait.web.id)

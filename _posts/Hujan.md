@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hujan
+date: 2020-03-16
+modified: 2020-03-16T11:41:10+07:00
+---
+
+Musim hujan, tapi berhawa panas. Peluh Mamas sampai menetes di meja kerjanya.

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Kajian Hollywood
-categories: film and cinema
+categories: film
 tags: hollywood
 date: 2020-03-16
 modified: 2020-03-16T12:33:03+07:00

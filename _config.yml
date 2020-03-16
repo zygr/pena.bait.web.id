@@ -1,3 +1,4 @@
 name: Penabait
 markdown: kramdown
+comments: true
 permalink: /blog/:title

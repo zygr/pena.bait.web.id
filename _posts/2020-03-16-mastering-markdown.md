@@ -33,9 +33,9 @@ _You **can** combine them_
 
 ![GitHub Logo](https://2.bp.blogspot.com/-RbFwu_jFXV8/Xd4V6OmfK7I/AAAAAAAACWw/R4mRmhwobh0FQynEMuHmgj4-XwW6uvfUQCLcBGAsYHQ/w1600-h685-p-k-no-nu/separation-bait-web-id.jpg)
 
-http://bait.web.id - automatic!
+https://bait.web.id - automatic!
 
-[GitHub](http://bait.web.id)
+[Bait](http://bait.web.id)
 
 As Kanye West said:
 > We're living the future so
